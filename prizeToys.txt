@@ -1,0 +1,24 @@
+Розыгрыш от Sun Mar 03 21:01:58 MSK 2024
+ID: 1, Name: Toy1, Quantity: 1, Weight: 10%
+ID: 3, Name: Toy3, Quantity: 1, Weight: 30%
+
+Розыгрыш от Sun Mar 03 21:03:36 MSK 2024
+ID: 3, Name: Toy3, Quantity: 1, Weight: 30%
+ID: 3, Name: Toy3, Quantity: 1, Weight: 30%
+ID: 3, Name: Toy3, Quantity: 1, Weight: 30%
+
+Розыгрыш от Sun Mar 03 21:30:56 MSK 2024
+ID: 3, Name: Toy3, Quantity: 1, Weight: 30%
+ID: 3, Name: Toy3, Quantity: 1, Weight: 30%
+ID: 4, Name: Toy4, Quantity: 1, Weight: 40%
+ID: 1, Name: Toy1, Quantity: 1, Weight: 10%
+ID: 1, Name: Toy1, Quantity: 1, Weight: 10%
+
+Розыгрыш от Mon Mar 04 20:58:05 MSK 2024
+ID: 2, Name: Toy2, Quantity: 1, Weight: 20%
+ID: 2, Name: Toy2, Quantity: 1, Weight: 20%
+ID: 4, Name: Toy4, Quantity: 1, Weight: 40%
+ID: 2, Name: Toy2, Quantity: 1, Weight: 20%
+ID: 1, Name: Toy1, Quantity: 1, Weight: 10%
+ID: 3, Name: Toy3, Quantity: 1, Weight: 30%
+
